@@ -297,9 +297,9 @@ if __name__ == '__main__':
     print(f"argv = {sys.argv}")
     if len(sys.argv) > 1:
         if sys.argv[1] == "local":
-        print("local!")
-        serve_locally = True
-    elif sys.argv[1] == "cloudflare":
-        print("cloudflare!")
-        serve_cloudflare = True
+            print("local!")
+            serve_locally = True
+        elif sys.argv[1] == "cloudflare":
+            print("cloudflare!")
+            serve_cloudflare = True
     main()
