@@ -184,6 +184,9 @@ def main():
     if serve_locally:
         base_path = ''
         site_url = 'http://localhost:8000'
+    elif serve_cloudflare:
+        base_path = ''
+        site_url = 'https://8faecffb.makesite.pages.dev'
     else:
         base_path = '/~speters'
         site_url = 'https://www.cs.cornell.edu'
@@ -292,7 +295,11 @@ _test = None
 
 if __name__ == '__main__':
     print(f"argv = {sys.argv}")
-    if len(sys.argv) > 1 and sys.argv[1] == "local":
+    if len(sys.argv) > 1:
+        if sys.argv[1] == "local":
         print("local!")
         serve_locally = True
+    elif sys.argv[1] == "cloudflare":
+        print("cloudflare!")
+        serve_cloudflare = True
     main()
