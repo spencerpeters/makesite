@@ -1,6 +1,6 @@
 cloudflare:
-  pip install commonmark
-  ./makesite.py
+	pip install commonmark
+	./makesite.py
 
 site:
 	./makesite.py
