@@ -1,9 +1,4 @@
 (undo-tree-save-format-version . 1)
 "fc606e94ea1868d6057aa97f1ce13d79a8248c7a"
-[nil nil nil nil (25868 27887 613095 0) 0 nil]
-([nil nil ((#("moderation" 0 10 (tag-attr t tag-name "a" tag-type start font-lock-face web-mode-html-attr-value-face)) . -120) (undo-tree-id0 . -10) (undo-tree-id1 . -10) (undo-tree-id2 . -10) 130 (t 25784 12188 189185 890000)) nil (25868 27887 613093 0) 0 nil])
-([nil nil ((120 . 141)) nil (25868 27887 613077 0) 0 nil])
-([nil nil ((141 . 147)) nil (25868 27887 613073 0) 0 nil])
-([nil current (("
-" . -1618) (undo-tree-id3 . -1) (undo-tree-id4 . -1) (undo-tree-id5 . -1) (undo-tree-id6 . -1) 1619 (t 25868 27887 617858 482000)) nil (25914 59668 968953 0) 0 nil])
+[nil current nil nil (26032 23954 815057 0) 0 nil]
 nil

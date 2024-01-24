@@ -1,5 +1,4 @@
 (undo-tree-save-format-version . 1)
 "c3dea007f7aac37cf1cf9280ccaa762b03455448"
-[nil nil nil nil (25582 11884 776587 0) 0 nil]
-([nil current ((2832 . 2833) (t 25581 36439 301992 306000)) nil (25582 11884 776582 0) 0 nil])
+[nil current nil nil (26032 23955 271214 0) 0 nil]
 nil

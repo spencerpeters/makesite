@@ -1,20 +1,4 @@
 (undo-tree-save-format-version . 1)
 "3bfdc54a04e8cd813b503cfdfd69d37b4dbeaf21"
-[nil nil nil nil (25563 8640 152247 0) 0 nil]
-([nil nil ((nil rear-nonsticky nil 3682 . 3683) (nil fontified nil 1 . 3683) (1 . 3683) (t . -1)) nil (25563 8640 152246 0) 0 nil])
-([nil nil ((#(" <2023-02-01 Wed> Writing (not code)
-" 0 37 (fontified t)) . -1) (undo-tree-id9 . -37) (undo-tree-id10 . -37) (undo-tree-id11 . -37) (undo-tree-id12 . -27) (undo-tree-id13 . -27) (undo-tree-id14 . -27) (undo-tree-id15 . -37) 38) nil (25563 8640 152245 0) 0 nil])
-([nil nil ((1 . 2)) nil (25563 8640 152239 0) 0 nil])
-([nil nil ((1 . 17)) nil (25563 8640 152239 0) 0 nil])
-([nil nil ((17 . 32)) nil (25563 8640 152238 0) 0 nil])
-([nil nil ((#(")" 0 1 (fontified t face markdown-comment-face)) . -29) (undo-tree-id3 . -1) (undo-tree-id4 . -1) (undo-tree-id5 . 1) (undo-tree-id6 . -1) (#("-" 0 1 (fontified t face markdown-comment-face)) . -30) (undo-tree-id7 . -1) (#("-" 0 1 (fontified t face markdown-comment-face)) . -31) (undo-tree-id8 . -1) 32) nil (25563 8640 152237 0) 0 nil])
-([nil nil ((29 . 32)) nil (25563 8640 152233 0) 0 nil])
-([nil nil ((#("(" 0 1 (fontified t face markdown-comment-face)) . -30) (undo-tree-id0 . -1) (undo-tree-id1 . -1) (#(" " 0 1 (fontified t face markdown-comment-face)) . -31) (undo-tree-id2 . -1) 32) nil (25563 8640 152232 0) 0 nil])
-([nil nil ((30 . 34)) nil (25563 8640 152218 0) 0 nil])
-([nil nil ((3680 . 3681)) nil (25563 8640 152214 0) 0 nil])
-([nil nil ((1154 . 1155) (t 25563 8640 153505 834000)) nil (25563 9550 264542 0) 0 nil])
-([nil nil ((1865 . 1866)) nil (25563 9550 264542 0) 0 nil])
-([nil nil ((3405 . 3406)) nil (25563 9550 264541 0) 0 nil])
-([nil nil ((2708 . 2710)) nil (25563 9550 264540 0) 0 nil])
-([nil current ((#(" " 0 1 (fontified t)) . 2707) (undo-tree-id16 . -1) 959) nil (25563 9550 264537 0) 0 nil])
+[nil current nil nil (26032 23955 276736 0) 0 nil]
 nil
