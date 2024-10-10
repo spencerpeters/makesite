@@ -263,7 +263,7 @@ def main():
               list_layout,
               item_layout,
               blog='blog',
-              title='Blog',
+              title='Notes',
               **params)
     make_list(journal_posts,
               '_site/journal/index.html',
