@@ -11,10 +11,10 @@ along with some lesser-known results and quotations.
 Anyway, one of the papers Avi showed was Turing's [morphogenesis paper](https://royalsocietypublishing.org/doi/10.1098/rstb.1952.0012).
 In the paper, Turing lays out a toy model for how developing biological organisms,
 starting from a blob of undifferentiated cells, form spatially structured tissues.
-His model involves a single chemical diffusing throughout the cells and taking place in local reactions.
+His model involves a single chemical diffusing throughout the cells and taking part in local reactions.
 
 Jumping forward to today: at breakfast my girlfriend and I were discussing
-this year's Nobel prize awarded to the discoverers of micro-RNA.
+this year's Nobel Prize in medicine, awarded to the discoverers of micro-RNA.
 (I'm not obsessed with prestigious awards, but they
 do serve as Schelling points for fun discussions!)
 Micro-RNA are short RNA sequences, roughly 20 nucleotides,
@@ -47,24 +47,23 @@ and design work to make a fun version of this game,
 but it could capture a lot of fun biology.
 You could play as a virus trying to hack a cell's defenses,
 as the cells get more and more complex.
-The connections to computer science could also be fun---
-you could build a conditional statement, or a counter.
+The connections to computer science could also be 
+fun--you could build a conditional statement, or a counter.
 
 I'll end this note with some fun speculation;
 would this kind of a programming model be of any use
-in computer science? Probably not---what a nightmare,
+in computer science? Probably not--what a nightmare,
 to implement even a simple conditional or loop
 in simulated chemistry! However, Nature's programming model
-(in real life, not as captured by the idealized reaction-diffusion model)
 has some advantages. Computer programs running in silicon
-typically rely on extremely low failure rates and 
-can be very brittle. In contrast, Nature has figured out
+typically rely on extremely low hardware failure rates and 
+are often very brittle. In contrast, Nature has figured out
 how I can run continuously for 28 years and counting
 without any fatal crashes. And what about security?
 In computer security, once a virus starts executing,
 it has essentially won. But in biology,
-a virus can replicate billions of times inside our bodies
-and still lose.
+a virus can take control of billions of cells inside our bodies
+and still eventually lose.
 Would a biologically-inspired programming model
 suggest security measures paralleling immune systems in animals?
 Biology had to think about robustness and security from the get-go,
